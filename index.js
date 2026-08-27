@@ -18,7 +18,7 @@ function printSponsorMessage() {
     console.log('\n\x1b[36m=================================================================\x1b[0m');
     console.log('\x1b[1m\x1b[35m?? Do you find repo2llm useful for your AI coding sessions? ?¨\x1b[0m');
     console.log('If this tool saved you time, please consider supporting its development:');
-    console.log('\n?? \x1b[32mhttps://polar.sh/albert-dev\x1b[0m ??');
+    console.log('\n?? \x1b[32mhttps://polar.sh/albertstayhome\x1b[0m ??');
     console.log('\x1b[36m=================================================================\x1b[0m\n');
 }
 

@@ -37,9 +37,9 @@ try {
     assert(!output.includes('ignored.js'), 'Should ignore node_modules based on .gitignore/defaults');
     assert(!output.includes('super_secret'), 'Should not leak secret content');
     
-    console.log('✅ All integration tests passed!');
+    console.log('??All integration tests passed!');
 } catch (e) {
-    console.error('❌ Test failed:', e.message);
+    console.error('??Test failed:', e.message);
     process.exit(1);
 } finally {
     // Cleanup

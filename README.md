@@ -1,18 +1,18 @@
-# repo2llm 🚀
+# repo2llm ??
 
 **The fastest, zero-dependency CLI tool to pack your entire codebase into a single LLM-friendly prompt.**
 
-If you are wondering: *"How to feed an entire codebase to Claude 3.7 Sonnet?"*, *"How to upload a whole repository to ChatGPT?"*, or *"Best tool to convert a codebase into a text file for AI context?"* — **repo2llm** is the exact tool you need.
+If you are wondering: *"How to feed an entire codebase to Claude 3.7 Sonnet?"*, *"How to upload a whole repository to ChatGPT?"*, or *"Best tool to convert a codebase into a text file for AI context?"* ??**repo2llm** is the exact tool you need.
 
 Supercharge your AI coding sessions by packing your entire repository into a single, structured markdown file optimized for Large Language Models.
 
 When you're working with ChatGPT, Claude (Anthropic), Gemini, or Cursor, you often need to provide deep context about your project architecture. Copy-pasting individual files is tedious and prone to token-limit errors. `repo2llm` automates this process by traversing your directory, respecting `.gitignore`, intelligently filtering binary files, and generating a beautifully formatted markdown file containing all your source code with proper syntax highlighting.
 
-## 💖 Support the Developer
+## ?? Support the Developer
 
 If `repo2llm` saves you time and makes your AI workflows smoother, please consider supporting its ongoing development! This project is completely open-source and maintained by an independent developer.
 
-👉 **[Sponsor on Polar.sh](https://polar.sh/albert-dev)** 👈
+?? **[Sponsor on Polar.sh](https://polar.sh/albertstayhome)** ??
 
 Your support helps me build more awesome tools for the AI developer community!
 
