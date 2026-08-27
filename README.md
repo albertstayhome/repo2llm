@@ -18,16 +18,14 @@ Your support helps me build more awesome tools for the AI developer community!
 
 ## Installation
 
-You don't even need to install it! Run it directly via `npx` (Zero Dependencies):
-
 ```bash
-npx repo2llm
+npx github:albertstayhome/repo2llm
 ```
 
-Or install it globally for faster access:
+Or install it globally from GitHub:
 
 ```bash
-npm install -g repo2llm
+npm install -g github:albertstayhome/repo2llm
 ```
 
 ## Usage
@@ -51,7 +49,7 @@ This will instantly generate a `repo_context.md` file in the current directory. 
 
 1. Pack your `src` directory while ignoring tests:
 ```bash
-npx repo2llm -d ./src -o my_codebase.md -i "tests,mock_data"
+npx github:albertstayhome/repo2llm -d ./src -o my_codebase.md -i "tests,mock_data"
 ```
 2. Drag and drop `my_codebase.md` into the AI chat interface.
 3. Prompt the AI: *"I have attached my codebase context. Please analyze the architecture and refactor the authentication middleware."*
