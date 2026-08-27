@@ -1,0 +1,27 @@
+{
+  "name": "repo2llm",
+  "version": "1.0.0",
+  "description": "Pack your codebase into a single markdown file optimized for LLMs. Supercharge your AI coding sessions. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "repo2llm": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "llm",
+    "prompt",
+    "codebase",
+    "chatgpt",
+    "gemini",
+    "claude",
+    "ai",
+    "developer-tools",
+    "zero-dependencies"
+  ],
+  "author": "albertstayhome",
+  "license": "MIT",
+  "dependencies": {}
+}
